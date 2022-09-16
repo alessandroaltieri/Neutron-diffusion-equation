@@ -1,5 +1,5 @@
 # Neutron diffusion equation
-The aim of this project is to solve the neutron diffusion equation in a variety of different scenarios:
+The aim of this project is to solve the neutron diffusion equation at critical conditions, i.e. when total density of neutrons increases exponentially resulting in a runaway process. This is done in a variety of different scenarios:
 *   1-D case in cartesian coordinates with Dirichlet BC
 *   2-D case in cartesian coordinates with Dirichlet BC
 *   3-D case in cartesian coordinates with Dirichlet BC
